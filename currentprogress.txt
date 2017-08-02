@@ -1,0 +1,3 @@
+implemented upto lighting using opengl
+
+left to start from : textures
